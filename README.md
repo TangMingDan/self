@@ -1,7 +1,7 @@
 # self
 # 自定义音乐播放器
 ## 启动界面
-![Alt text](./Screenshot_2019-05-19-16-22-09-72.png)
+![Alt text](https://github.com/TangMingDan/self/blob/master/img/Screenshot_2019-05-19-16-22-09-72.png.JPG)
 ## 主界面
 ![Alt text](./Screenshot_2019-05-19-16-28-54-78.png)
 ## 音乐详情界面
